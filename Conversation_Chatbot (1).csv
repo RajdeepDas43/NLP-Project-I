@@ -1,0 +1,137 @@
+0,question,answer
+1,"hi, how are you doing?",i'm fine. how about yourself?
+2,i'm fine. how about yourself?,i'm pretty good. thanks for asking.
+3,i'm pretty good. thanks for asking.,no problem. so how have you been?
+4,no problem. so how have you been?,i've been great. what about you?
+5,i've been great. what about you?,i've been good. i'm in school right now.
+6,i've been good. i'm in school right now.,what school do you go to?
+7,what school do you go to?,i go to yale university
+8,i go to yale university,do you like it there?
+9,do you like it there?,it's okay. it's a really great campus.
+10,it's okay. it's a really big campus.,good luck with school.
+11,good luck with school.,thank you very much.
+12,how's it going?,i'm doing well. how about you?
+13,i'm doing well. how about you?,"never better, thanks."
+14,"never better, thanks.",so how have you been lately?
+15,so how have you been lately?,i've actually been pretty good. you?
+16,i've actually been pretty good. you?,i'm actually in school right now.
+17,i'm actually in school right now.,which school do you attend?
+18,which school do you attend?,i'm attending pcc right now.
+19,i'm attending pcc right now.,are you enjoying it there?
+20,are you enjoying it there?,it's not bad. there are a lot of people there.
+21,it's not bad. there are a lot of people there.,good luck with that.
+22,good luck with that.,thanks.
+23,how are you doing today?,i'm doing great. what about you?
+24,i'm doing great. what about you?,"i'm absolutely lovely, thank you."
+25,"i'm absolutely lovely, thank you.",everything's been good with you?
+26,everything's been good with you?,i haven't been better. how about yourself?
+27,i haven't been better. how about yourself?,i started school recently.
+28,i started school recently.,where are you going to school?
+29,where are you going to school?,i'm going to yale School of Architecture.
+30,i'm going to Yale School of Architecture.,how do you like it so far?
+31,how do you like it so far?,i like it so far. my classes are pretty good right now.
+32,i like it so far. my classes are pretty good right now.,i wish you luck.
+33,"Hi, I would like to know what are the majors available in Computer science Graduate Program?","Data science, Artificial Intelligence, and Machine Learning"
+34,Can you tell me how many credit hours do we need to complete the Computer Grad Program?,33 Credits
+35,"Hi, I would like to know the majors available in Yale Architecture Program? ","Interior Architecuture, Construction Management "
+36,Can you tell me how many credit hours do we need to complete the Architecture Grad Program?,36 Credits
+37,"Hi, have you heard about the Yale University Grad Program?","Yes, I have. Yale University offers a wide range of graduate programs across various fields."
+38,"Yes, I have. Yale University offers a wide range of graduate programs across various fields.",That's great. I'm interested in the Master's in Public Health program. What can you tell me about it?
+39,That's great. I'm interested in the Master's in Public Health program. What can you tell me about it?,"The Master's in Public Health program at Yale University is a two-year, full-time program"
+40,"The Master's in Public Health program at Yale University is a two-year, full-time program",That's sounds interesting..!!
+41,That's sounds interesting..!!,Is there anything specific that sets the Yale program apart from other MPH programs?
+42,Is there anything specific that sets the Yale program apart from other MPH programs?,"Yes, It's an interdisciplinary learning"
+43,"Yes, It's an interdisciplinary learning","Can, you elaborate more about the course? "
+44,"Can, you elaborate more about the course? ",The curriculum is designed to integrate knowledge from different fields to provide a good understanding of public health issues
+45,The curriculum is designed to integrate knowledge from different fields to provide a good understanding of public health issues,That's really helpful. How competitive is the program?
+46,That's really helpful. How competitive is the program?,"The Yale MPH program is highly competitive, with a selective admissions process. Successful applicants typically have strong academic backgrounds"
+47,"The Yale MPH program is highly competitive, with a selective admissions process. Successful applicants typically have strong academic backgrounds", Thank you for your help.
+48,Thank you for your help.,I hope this information helps.
+49,"Hello, have you heard anything about the Yale University Law School?","yes, graduates are highly sought-after by law firms, government agencies, and non-profit organizations."
+50,"yes, graduates are highly sought-after by law firms, government agencies, and non-profit organizations.","Wow, That's so cool"
+51,"Wow, That's so cool",That's great to hear. I'm interested in the Juris Doctor (JD) program. Can you tell me more about it?
+52,That's great to hear. I'm interested in the Juris Doctor (JD) program. Can you tell me more about it?,"Yes, I can help you with that "
+53,"Yes, I can help you with that ",The JD program at Yale Law School is a three-year program that provides students with a rigorous legal education.
+54,The JD program at Yale Law School is a three-year program that provides students with a rigorous legal education.,What does it mean exactly? 
+55,What does it mean exactly? ,Let me elaborate it for you?
+56,Let me elaborate it for you?,The curriculum is designed to help students develop critical thinking and analytical skills that are essential for success in the legal profession
+57,The curriculum is designed to help students develop critical thinking and analytical skills that are essential for success in the legal profession,"That sounds interesting. What makes the Yale Law School program stand out?
+"
+58,"That sounds interesting. What makes the Yale Law School program stand out?
+","The JD program at Yale Law School is highly competitive, with a selective admissions process"
+59,"The JD program at Yale Law School is highly competitive, with a selective admissions process",Thank you for your help. Do you have any advice for someone applying to the Yale Law School program?
+60,Thank you for your help. Do you have any advice for someone applying to the Yale Law School program?,Thank you so much.
+61,Thank you so much..!!,Always happy to help.
+62,Always happy to help.,Thank you.
+63,What's the mascot of Yale University?,The mascot of Yale University is the bulldog.
+64,The mascot of Yale University is the bulldog.,Thank you.
+65,How old is Yale University?,"Yale University was founded in 1701, so it is over 300 years old."
+66,"Yale University was founded in 1701, so it is over 300 years old.",It seems to be very old university
+67,It seems to be very old university,"yes, it is "
+68,What is Yale University known for?,"Yale University is known for its prestigious academic programs, including law, medicine, business, and the arts."
+69,"Yale University is known for its prestigious academic programs, including law, medicine, business, and the arts.","Wow, That's so cool"
+70,Where is Yale University located?,"Yale University is located in New Haven, Connecticut, USA."
+71,"Yale University is located in New Haven, Connecticut, USA.",It's a very cool place 
+72,It's a very cool place ,"Yes, it is "
+73,What is the acceptance rate for undergraduate students at Yale?,The acceptance rate for undergraduate students at Yale is typically around 6%.
+74,The acceptance rate for undergraduate students at Yale is typically around 6%.,That's seems to be very tough
+75,That's seems to be very tough,"Yes, it is a highly reputed college."
+76,"Yes, it is a highly reputed college.","Yes, its a good instituion "
+77,"Yes, its a good instituion ",yes 
+78,Does Yale have any notable alumni?,"yes it has notable alumni, including five U.S. presidents, numerous Supreme Court justices, and Nobel laureates in various fields. "
+79,"yes it has notable alumni, including five U.S. presidents, numerous Supreme Court justices, and Nobel laureates in various fields. ","Wow, That's so cool"
+80,"Wow, That's so cool",yes 
+81, What is the Yale Daily News?,"The Yale Daily News is the oldest daily college newspaper in the United States, founded in 1878 and operated by Yale students."
+82,"The Yale Daily News is the oldest daily college newspaper in the United States, founded in 1878 and operated by Yale students.","Wow, it seems so cool "
+83,"Wow, it seems so cool",Yes. 
+84,"What is the ""Whiffenpoofs"" at Yale University?","The ""Whiffenpoofs"" is the oldest collegiate a cappella group in the United States, founded at Yale University in 1909."
+85,"The ""Whiffenpoofs"" is the oldest collegiate a cappella group in the United States, founded at Yale University in 1909.",It's so nice
+86,"What is the ""Yale Daily News Magazine""?","Yes, Yale University is committed to promoting diversity and inclusivity, and its student population is diverse.
+ The ""Yale Daily News Magazine"""
+87,"Yes, Yale University is committed to promoting diversity and inclusivity, and its student population is diverse.
+ The ""Yale Daily News Magazine""",It's good to hear about the magazine. 
+88,What is the name of Yale's famous library?,Yale's famous library is called the Beinecke Rare Book and Manuscript Library.
+89,Yale's famous library is called the Beinecke Rare Book and Manuscript Library.,Can you tell where exactly it is located?
+90,Can you tell where exactly it is located?, on the corner of Wall and High Streets.
+91,"Hi, I'm interested in pursuing a graduate program at Yale University",That's so good to hear.
+92,That's so good to hear.,Can you tell me about the different options available?
+93,Can you tell me about the different options available?,"Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences."
+94,"Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences.",what are the popular programs in that fields?
+95,what are the popular programs in that fields?,"Law, Medicine, Business, and Engineering."
+96,"Hi, I would like to take up a grad course in Environmental Science","Wow, That's so cool"
+97,"Wow, That's so cool",I will help you for sure 
+98,I will help you for sure ,I'm specifically interested in the graduate program in Environmental Science at Yale.
+99,I'm specifically interested in the graduate program in Environmental Science at Yale.,What can you tell me about it?
+100,What can you tell me about it?,"It offers both a Master's and a PhD degree, and students can specialize in areas such as climate science, ecology, and sustainable development."
+101,"It offers both a Master's and a PhD degree, and students can specialize in areas such as climate science, ecology, and sustainable development.",It’s a great offer for students
+102,It’s a great offer for students,Cool. Thank you 
+103,'m looking for a graduate program in the humanities. Does Yale offer any programs in that area?,yes the yale offers in humantities 
+104,yes the yale offers in humantities ,"Humanities programs in English, History, Philosophy, and Comparative Literature."
+105,"Humanities programs in English, History, Philosophy, and Comparative Literature.",That's a huge variety. 
+106,That's a huge variety. ,yes it is 
+107,What is the application process like for Yale graduate programs?,It varies depending on the program.
+108,It varies depending on the program.,Can you tell me for any grad program point of view?
+109,Can you tell me for any grad program point of view?,"It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores"
+110,"It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores",ok. Thank you 
+111,ok. Thank you ,Your welcome. 
+112,Can you tell me about the different options available?,"Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences."
+113,"Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences.",what are the popular programs in that fields?
+114,what are the popular programs in that fields?,"Law, Medicine, Business, and Engineering."
+115,"Hi, I would like to take up a grad course in Arts","Wow, That's so cool"
+116,"Wow, That's so cool",I will help you for sure 
+117,I will help you for sure ,I'm specifically interested in the graduate program in Arts Program at Yale.
+118,I'm specifically interested in the graduate program in Environmental Science at Yale.,What can you tell me about it?
+119,What can you tell me about it?,"It including programs in Art, Music, and Drama"
+120,"It including programs in Art, Music, and Drama",It’s a great offer for students
+121,It’s a great offer for students,Cool. Thank you 
+122,Im looking for a graduate program in the humanities. Does Yale offer any programs in that area?,yes the yale offers in humantities 
+123,yes the yale offers in humantities ,"Humanities programs in English, History, Philosophy, and Comparative Literature."
+124,"Humanities programs in English, History, Philosophy, and Comparative Literature.",That's a huge variety. 
+125,That's a huge variety. ,yes it is 
+126,What is the application process like for Yale graduate programs?,It varies depending on the program.
+127,It varies depending on the program.,Can you tell me for any grad program point of view?
+128,Can you tell me for any grad program point of view?,"It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores"
+129,"It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores",ok. Thank you 
+130,ok. Thank you ,Your welcome. 
+131,Can you tell me how many credit hours do we need to complete the Architecture Grad Program?,You'll need 120 credit hours
+132,Have you heard about Yale University Grad Program?,"Yale's Graduate School of Arts & Sciences offers programs leading to M.A., M.S., M.Phil., and Ph.D. degrees in 73 departments and programs."
