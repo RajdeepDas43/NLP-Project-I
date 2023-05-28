@@ -1,0 +1,523 @@
+{
+  
+  "1": {
+    "question": "hi, how are you doing?",
+    "answer": "i'm fine. how about yourself?"
+  },
+  "2": {
+    "question": "i'm fine. how about yourself?",
+    "answer": "i'm pretty good. thanks for asking."
+  },
+  "3": {
+    "question": "i'm pretty good. thanks for asking.",
+    "answer": "no problem. so how have you been?"
+  },
+  "4": {
+    "question": "no problem. so how have you been?",
+    "answer": "i've been great. what about you?"
+  },
+  "5": {
+    "question": "i've been great. what about you?",
+    "answer": "i've been good. i'm in school right now."
+  },
+  "6": {
+    "question": "i've been good. i'm in school right now.",
+    "answer": "what school do you go to?"
+  },
+  "7": {
+    "question": "what school do you go to?",
+    "answer": "i go to yale university"
+  },
+  "8": {
+    "question": "i go to yale university",
+    "answer": "do you like it there?"
+  },
+  "9": {
+    "question": "do you like it there?",
+    "answer": "it's okay. it's a really great campus."
+  },
+  "10": {
+    "question": "it's okay. it's a really big campus.",
+    "answer": "good luck with school."
+  },
+  "11": {
+    "question": "good luck with school.",
+    "answer": "thank you very much."
+  },
+  "12": {
+    "question": "how's it going?",
+    "answer": "i'm doing well. how about you?"
+  },
+  "13": {
+    "question": "i'm doing well. how about you?",
+    "answer": "never better, thanks."
+  },
+  "14": {
+    "question": "never better, thanks.",
+    "answer": "so how have you been lately?"
+  },
+  "15": {
+    "question": "so how have you been lately?",
+    "answer": "i've actually been pretty good. you?"
+  },
+  "16": {
+    "question": "i've actually been pretty good. you?",
+    "answer": "i'm actually in school right now."
+  },
+  "17": {
+    "question": "i'm actually in school right now.",
+    "answer": "which school do you attend?"
+  },
+  "18": {
+    "question": "which school do you attend?",
+    "answer": "i'm attending pcc right now."
+  },
+  "19": {
+    "question": "i'm attending pcc right now.",
+    "answer": "are you enjoying it there?"
+  },
+  "20": {
+    "question": "are you enjoying it there?",
+    "answer": "it's not bad. there are a lot of people there."
+  },
+  "21": {
+    "question": "it's not bad. there are a lot of people there.",
+    "answer": "good luck with that."
+  },
+  "22": {
+    "question": "good luck with that.",
+    "answer": "thanks."
+  },
+  "23": {
+    "question": "how are you doing today?",
+    "answer": "i'm doing great. what about you?"
+  },
+  "24": {
+    "question": "i'm doing great. what about you?",
+    "answer": "i'm absolutely lovely, thank you."
+  },
+  "25": {
+    "question": "i'm absolutely lovely, thank you.",
+    "answer": "everything's been good with you?"
+  },
+  "26": {
+    "question": "everything's been good with you?",
+    "answer": "i haven't been better. how about yourself?"
+  },
+  "27": {
+    "question": "i haven't been better. how about yourself?",
+    "answer": "i started school recently."
+  },
+  "28": {
+    "question": "i started school recently.",
+    "answer": "where are you going to school?"
+  },
+  "29": {
+    "question": "where are you going to school?",
+    "answer": "i'm going to yale School of Architecture."
+  },
+  "30": {
+    "question": "i'm going to Yale School of Architecture.",
+    "answer": "how do you like it so far?"
+  },
+  "31": {
+    "question": "how do you like it so far?",
+    "answer": "i like it so far. my classes are pretty good right now."
+  },
+  "32": {
+    "question": "i like it so far. my classes are pretty good right now.",
+    "answer": "i wish you luck."
+  },
+  "33": {
+    "question": "Hi, I would like to know what are the majors available in Computer science Graduate Program?",
+    "answer": "Data science, Artificial Intelligence, and Machine Learning"
+  },
+  "34": {
+    "question": "Can you tell me how many credit hours do we need to complete the Computer Grad Program?",
+    "answer": "33 Credits"
+  },
+  "35": {
+    "question": "Hi, I would like to know the majors available in Yale Architecture Program?",
+    "answer": "Interior Architecuture, Construction Management"
+  },
+  "36": {
+    "question": "Can you tell me how many credit hours do we need to complete the Architecture Grad Program?",
+    "answer": "36 Credits"
+  },
+  "37": {
+    "question": "Hi, have you heard about the Yale University Grad Program?",
+    "answer": "Yes, I have. Yale University offers a wide range of graduate programs across various fields."
+  },
+  "38": {
+    "question": "Yes, I have. Yale University offers a wide range of graduate programs across various fields.",
+    "answer": "That's great. I'm interested in the Master's in Public Health program. What can you tell me about it?"
+  },
+  "39": {
+    "question": "That's great. I'm interested in the Master's in Public Health program. What can you tell me about it?",
+    "answer": "The Master's in Public Health program at Yale University is a two-year, full-time program"
+  },
+  "40": {
+    "question": "The Master's in Public Health program at Yale University is a two-year, full-time program",
+    "answer": "That's sounds interesting..!!"
+  },
+  "41": {
+    "question": "That's sounds interesting..!!",
+    "answer": "Is there anything specific that sets the Yale program apart from other MPH programs?"
+  },
+  "42": {
+    "question": "Is there anything specific that sets the Yale program apart from other MPH programs?",
+    "answer": "Yes, It's an interdisciplinary learning"
+  },
+  "43": {
+    "question": "Yes, It's an interdisciplinary learning",
+    "answer": "Can, you elaborate more about the course?"
+  },
+  "44": {
+    "question": "Can, you elaborate more about the course?",
+    "answer": "The curriculum is designed to integrate knowledge from different fields to provide a good understanding of public health issues"
+  },
+  "45": {
+    "question": "The curriculum is designed to integrate knowledge from different fields to provide a good understanding of public health issues",
+    "answer": "That's really helpful. How competitive is the program?"
+  },
+  "46": {
+    "question": "That's really helpful. How competitive is the program?",
+    "answer": "The Yale MPH program is highly competitive, with a selective admissions process. Successful applicants typically have strong academic backgrounds"
+  },
+  "47": {
+    "question": "The Yale MPH program is highly competitive, with a selective admissions process. Successful applicants typically have strong academic backgrounds",
+    "answer": "Thank you for your help."
+  },
+  "48": {
+    "question": "Thank you for your help.",
+    "answer": "I hope this information helps."
+  },
+  "49": {
+    "question": "Hello, have you heard anything about the Yale University Law School?",
+    "answer": "yes, graduates are highly sought-after by law firms, government agencies, and non-profit organizations."
+  },
+  "50": {
+    "question": "yes, graduates are highly sought-after by law firms, government agencies, and non-profit organizations.",
+    "answer": "Wow, That's so cool"
+  },
+  "51": {
+    "question": "Wow, That's so cool",
+    "answer": "That's great to hear. I'm interested in the Juris Doctor (JD) program. Can you tell me more about it?"
+  },
+  "52": {
+    "question": "That's great to hear. I'm interested in the Juris Doctor (JD) program. Can you tell me more about it?",
+    "answer": "Yes, I can help you with that"
+  },
+  "53": {
+    "question": "Yes, I can help you with that",
+    "answer": "The JD program at Yale Law School is a three-year program that provides students with a rigorous legal education."
+  },
+  "54": {
+    "question": "The JD program at Yale Law School is a three-year program that provides students with a rigorous legal education.",
+    "answer": "What does it mean exactly?"
+  },
+  "55": {
+    "question": "What does it mean exactly?",
+    "answer": "Let me elaborate it for you?"
+  },
+  "56": {
+    "question": "Let me elaborate it for you?",
+    "answer": "The curriculum is designed to help students develop critical thinking and analytical skills that are essential for success in the legal profession"
+  },
+  "57": {
+    "question": "The curriculum is designed to help students develop critical thinking and analytical skills that are essential for success in the legal profession",
+    "answer": "That sounds interesting. What makes the Yale Law School program stand out?"
+  },
+  "58": {
+    "question": "That sounds interesting. What makes the Yale Law School program stand out?",
+    "answer": "The JD program at Yale Law School is highly competitive, with a selective admissions process"
+  },
+  "59": {
+    "question": "The JD program at Yale Law School is highly competitive, with a selective admissions process",
+    "answer": "Thank you for your help. Do you have any advice for someone applying to the Yale Law School program?"
+  },
+  "60": {
+    "question": "Thank you for your help. Do you have any advice for someone applying to the Yale Law School program?",
+    "answer": "Thank you so much."
+  },
+  "61": {
+    "question": "Thank you so much..!!",
+    "answer": "Always happy to help."
+  },
+  "62": {
+    "question": "Always happy to help.",
+    "answer": "Thank you."
+  },
+  "63": {
+    "question": "What's the mascot of Yale University?",
+    "answer": "The mascot of Yale University is the bulldog."
+  },
+  "64": {
+    "question": "The mascot of Yale University is the bulldog.",
+    "answer": "Thank you."
+  },
+  "65": {
+    "question": "How old is Yale University?",
+    "answer": "Yale University was founded in 1701, so it is over 300 years old."
+  },
+  "66": {
+    "question": "Yale University was founded in 1701, so it is over 300 years old.",
+    "answer": "It seems to be very old university"
+  },
+  "67": {
+    "question": "It seems to be very old university",
+    "answer": "yes, it is"
+  },
+  "68": {
+    "question": "What is Yale University known for?",
+    "answer": "Yale University is known for its prestigious academic programs, including law, medicine, business, and the arts."
+  },
+  "69": {
+    "question": "Yale University is known for its prestigious academic programs, including law, medicine, business, and the arts.",
+    "answer": "Wow, That's so cool"
+  },
+  "70": {
+    "question": "Where is Yale University located?",
+    "answer": "Yale University is located in New Haven, Connecticut, USA."
+  },
+  "71": {
+    "question": "Yale University is located in New Haven, Connecticut, USA.",
+    "answer": "It's a very cool place"
+  },
+  "72": {
+    "question": "It's a very cool place",
+    "answer": "Yes, it is"
+  },
+  "73": {
+    "question": "What is the acceptance rate for undergraduate students at Yale?",
+    "answer": "The acceptance rate for undergraduate students at Yale is typically around 6%."
+  },
+  "74": {
+    "question": "The acceptance rate for undergraduate students at Yale is typically around 6%.",
+    "answer": "That's seems to be very tough"
+  },
+  "75": {
+    "question": "That's seems to be very tough",
+    "answer": "Yes, it is a highly reputed college."
+  },
+  "76": {
+    "question": "Yes, it is a highly reputed college.",
+    "answer": "Yes, its a good instituion"
+  },
+  "77": {
+    "question": "Yes, its a good instituion",
+    "answer": "yes"
+  },
+  "78": {
+    "question": "Does Yale have any notable alumni?",
+    "answer": "yes it has notable alumni, including five U.S. presidents, numerous Supreme Court justices, and Nobel laureates in various fields."
+  },
+  "79": {
+    "question": "yes it has notable alumni, including five U.S. presidents, numerous Supreme Court justices, and Nobel laureates in various fields.",
+    "answer": "Wow, That's so cool"
+  },
+  "80": {
+    "question": "Wow, That's so cool",
+    "answer": "yes"
+  },
+  "81": {
+    "question": "What is the Yale Daily News?",
+    "answer": "The Yale Daily News is the oldest daily college newspaper in the United States, founded in 1878 and operated by Yale students."
+  },
+  "82": {
+    "question": "The Yale Daily News is the oldest daily college newspaper in the United States, founded in 1878 and operated by Yale students.",
+    "answer": "Wow, it seems so cool"
+  },
+  "83": {
+    "question": "Wow, it seems so cool",
+    "answer": "Yes."
+  },
+  "84": {
+    "question": "What is the \"Whiffenpoofs\" at Yale University?",
+    "answer": "The \"Whiffenpoofs\" is the oldest collegiate a cappella group in the United States, founded at Yale University in 1909."
+  },
+  "85": {
+    "question": "The \"Whiffenpoofs\" is the oldest collegiate a cappella group in the United States, founded at Yale University in 1909.",
+    "answer": "It's so nice"
+  },
+  "86": {
+    "question": "What is the \"Yale Daily News Magazine\"?",
+    "answer": "Yes, Yale University is committed to promoting diversity and inclusivity, and its student population is diverse.\n The \"Yale Daily News Magazine"
+  },
+  "87": {
+    "question": "Yes, Yale University is committed to promoting diversity and inclusivity, and its student population is diverse.\n The \"Yale Daily News Magazine",
+    "answer": "It's good to hear about the magazine."
+  },
+  "88": {
+    "question": "What is the name of Yale's famous library?",
+    "answer": "Yale's famous library is called the Beinecke Rare Book and Manuscript Library."
+  },
+  "89": {
+    "question": "Yale's famous library is called the Beinecke Rare Book and Manuscript Library.",
+    "answer": "Can you tell where exactly it is located?"
+  },
+  "90": {
+    "question": "Can you tell where exactly it is located?",
+    "answer": "on the corner of Wall and High Streets."
+  },
+  "91": {
+    "question": "Hi, I'm interested in pursuing a graduate program at Yale University",
+    "answer": "That's so good to hear."
+  },
+  "92": {
+    "question": "That's so good to hear.",
+    "answer": "Can you tell me about the different options available?"
+  },
+  "93": {
+    "question": "Can you tell me about the different options available?",
+    "answer": "Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences."
+  },
+  "94": {
+    "question": "Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences.",
+    "answer": "what are the popular programs in that fields?"
+  },
+  "95": {
+    "question": "what are the popular programs in that fields?",
+    "answer": "Law, Medicine, Business, and Engineering."
+  },
+  "96": {
+    "question": "Hi, I would like to take up a grad course in Environmental Science",
+    "answer": "Wow, That's so cool"
+  },
+  "97": {
+    "question": "Wow, That's so cool",
+    "answer": "I will help you for sure"
+  },
+  "98": {
+    "question": "I will help you for sure",
+    "answer": "I'm specifically interested in the graduate program in Environmental Science at Yale."
+  },
+  "99": {
+    "question": "I'm specifically interested in the graduate program in Environmental Science at Yale.",
+    "answer": "What can you tell me about it?"
+  },
+  "100": {
+    "question": "What can you tell me about it?",
+    "answer": "It offers both a Master's and a PhD degree, and students can specialize in areas such as climate science, ecology, and sustainable development."
+  },
+  "101": {
+    "question": "It offers both a Master's and a PhD degree, and students can specialize in areas such as climate science, ecology, and sustainable development.",
+    "answer": "It’s a great offer for students"
+  },
+  "102": {
+    "question": "It’s a great offer for students",
+    "answer": "Cool. Thank you"
+  },
+  "103": {
+    "question": "'m looking for a graduate program in the humanities. Does Yale offer any programs in that area?",
+    "answer": "yes the yale offers in humantities"
+  },
+  "104": {
+    "question": "yes the yale offers in humantities",
+    "answer": "Humanities programs in English, History, Philosophy, and Comparative Literature."
+  },
+  "105": {
+    "question": "Humanities programs in English, History, Philosophy, and Comparative Literature.",
+    "answer": "That's a huge variety."
+  },
+  "106": {
+    "question": "That's a huge variety.",
+    "answer": "yes it is"
+  },
+  "107": {
+    "question": "What is the application process like for Yale graduate programs?",
+    "answer": "It varies depending on the program."
+  },
+  "108": {
+    "question": "It varies depending on the program.",
+    "answer": "Can you tell me for any grad program point of view?"
+  },
+  "109": {
+    "question": "Can you tell me for any grad program point of view?",
+    "answer": "It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores"
+  },
+  "110": {
+    "question": "It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores",
+    "answer": "ok. Thank you"
+  },
+  "111": {
+    "question": "ok. Thank you",
+    "answer": "Your welcome."
+  },
+  "112": {
+    "question": "Can you tell me about the different options available?",
+    "answer": "Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences."
+  },
+  "113": {
+    "question": "Sure! Yale University offers a wide range of graduate programs across various fields, including the arts, humanities, social sciences, and natural sciences.",
+    "answer": "what are the popular programs in that fields?"
+  },
+  "114": {
+    "question": "what are the popular programs in that fields?",
+    "answer": "Law, Medicine, Business, and Engineering."
+  },
+  "115": {
+    "question": "Hi, I would like to take up a grad course in Arts",
+    "answer": "Wow, That's so cool"
+  },
+  "116": {
+    "question": "Wow, That's so cool",
+    "answer": "I will help you for sure"
+  },
+  "117": {
+    "question": "I will help you for sure",
+    "answer": "I'm specifically interested in the graduate program in Arts Program at Yale."
+  },
+  "118": {
+    "question": "I'm specifically interested in the graduate program in Environmental Science at Yale.",
+    "answer": "What can you tell me about it?"
+  },
+  "119": {
+    "question": "What can you tell me about it?",
+    "answer": "It including programs in Art, Music, and Drama"
+  },
+  "120": {
+    "question": "It including programs in Art, Music, and Drama",
+    "answer": "It’s a great offer for students"
+  },
+  "121": {
+    "question": "It’s a great offer for students",
+    "answer": "Cool. Thank you"
+  },
+  "122": {
+    "question": "Im looking for a graduate program in the humanities. Does Yale offer any programs in that area?",
+    "answer": "yes the yale offers in humantities"
+  },
+  "123": {
+    "question": "yes the yale offers in humantities",
+    "answer": "Humanities programs in English, History, Philosophy, and Comparative Literature."
+  },
+  "124": {
+    "question": "Humanities programs in English, History, Philosophy, and Comparative Literature.",
+    "answer": "That's a huge variety."
+  },
+  "125": {
+    "question": "That's a huge variety.",
+    "answer": "yes it is"
+  },
+  "126": {
+    "question": "What is the application process like for Yale graduate programs?",
+    "answer": "It varies depending on the program."
+  },
+  "127": {
+    "question": "It varies depending on the program.",
+    "answer": "Can you tell me for any grad program point of view?"
+  },
+  "128": {
+    "question": "Can you tell me for any grad program point of view?",
+    "answer": "It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores"
+  },
+  "129": {
+    "question": "It generally requires submitting transcripts, letters of recommendation, a personal statement, and standardized test scores",
+    "answer": "ok. Thank you"
+  },
+  "130": {
+    "question": "ok. Thank you",
+    "answer": "Your welcome."
+  }
+}
